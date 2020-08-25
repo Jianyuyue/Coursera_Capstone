@@ -1,0 +1,3 @@
+I'm going to use Foursquare location data for my problem.
+
+It contains each restaurant's data of location, rating and customers review etc.
